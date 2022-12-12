@@ -1,0 +1,7 @@
+# separate video files
+video/
+# merge video files
+merge/
+# mp4 video files
+*.mp4
+*.ts
